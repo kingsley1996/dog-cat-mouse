@@ -5,3 +5,4 @@ var tom = new Cat('Tom');
 var dog = new Dog('Simba');
 dog.sayHi();
 dog.eat(tom);
+console.log(dog);
